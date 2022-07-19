@@ -1,0 +1,11 @@
+**Pore Extractor 2D Morphological Modification Log for Sample_Rib**
+
+Image Scale: 940 pixels / mm
+
+**Morphological Modifications**
+     Close and Fill Pores: 2 Dilate - Erode pixel(s)
+     Smooth Pore Borders: 10 Erode - Dilate pixel(s)
+
+**Analyze Particle Parameters**
+     Minimum Pore Size: 300 mm²
+     Minimum Pore Circularity: 0.1
