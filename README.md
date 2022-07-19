@@ -2,6 +2,21 @@
 
 ## Description
 
+Pore Extractor 2D is a free, open source macro toolkit for the FIJI distribution of ImageJ. This toolkit expedites the annotation and morphometric analysis of cortical pores on transverse histological cross-sections of bone tissue.
+
+### Macro Tools
+
+- **Clip Trabeculae:** Keyboard shortcuts for clipping trabecular struts and sealing cortex cracks
+- **Wand ROI Selection:** Automatically select and clear space external to section borders
+- **ROI Touchup:** Adjust the section borders exported by *Wand ROI Selection*
+- **Pore Extractor:** Computer-assisted segmentation of pore spaces
+- **Pore Modifier:** Keyboard shortcuts and specialized functions for manually correcting the pore ROI set exported by *Pore Extractor*
+- **Pore Analyzer:** Automated morphometric analysis of pore spaces, including type classification and regional subdivision
+
+### Citation
+
+Mary E. Cole, Samuel D. Stout, Victoria M. Dominguez, Amanda M. Agnew. 2022. Pore Extractor 2D: An ImageJ toolkit for quantifying cortical pore morphometry on histological bone images with application to intraskeletal and regional patterning. American Journal of Biological Anthropology (In Press).
+
 ## Installation
 
 Pore Extractor 2D requires ImageJ FIJI version **1.53g** or later distribution.
