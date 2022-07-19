@@ -34,7 +34,7 @@ The user will be prompted to close and restart ImageJ several times during this 
 
 **1.**	Open the ImageJ application and navigate to **Help -> Update.** If the ImageJ installation is new, several default updates may install, the user will be prompted to **Apply Changes**, close ImageJ, re-open ImageJ, and call **Help -> Update** again.  
 
-![Call Help Update](README.md_Images/2_Help_Update.png)
+![Help Update](README.md_Images/2_Help_Update.png)
 
 **2.**	Select **Manage update sites**, then **Add update site**, and input the following information: 
 
@@ -43,3 +43,39 @@ The user will be prompted to close and restart ImageJ several times during this 
 - **Host:** webdav:MECole
 
 Then select **Close** to be returned to the **Manage update sites** window. 
+
+![Manage Updates](README.md_Images/3_Manage_Updates.png)
+
+**3.** Pore Extractor 2D dependencies will populate in the **Manage update sites** window. Note that only “Pore_Extractor_2D.ijm” will populate if the user previously installed BoneJ and Biovoxxel dependencies. Select **Apply changes**. The user will be prompted to restart ImageJ.
+
+![Dependencies](README.md_Images/4_Dependencies.png)
+
+After download, the “Pore_Extractor_2D.ijm” file will appear in the Fiji.app subfolder **macros -> toolsets**.
+
+![Toolsets](README.md_Images/5_Toolsets.png)
+
+If the user encounters difficulties downloading from the update site, the “Pore_Extractor_2D.ijm” file downloaded from this repository can be manually copied into the toolset subfolder. In this case, the user would also need to install BoneJ and BioVoxxel Toolbox individually from the ImageJ Update menu.
+
+**4.** Navigate to **Help --> Update ImageJ** and update to the latest version (1.53g or later). ImageJ will close automatically after this update and will need to be restarted.
+
+![Update ImageJ](README.md_Images/6_Update_ImageJ.png)
+
+## Pore Extractor 2D Session Startup Instructions
+
+Pore Extractor 2D must be installed each time a new session of ImageJ is opened.
+
+**1.** If the user plans to clean section borders with the *Clip Trabeculae* or *Wand ROI Selection* macros, the FIJI Brush tool must be installed by selecting “StartupMacros” from the “More Tools” (**>>**) dropdown menu. This utility replaces the default ImageJ Brush tool.
+
+![Startup Macros](README.md_Images/7_StartupMacros.png)
+
+**2.** Select “Pore_Extractor_2D” from the “More Tools” (**>>**) dropdown menu, and the toolkit icon will appear in the ImageJ toolbar.
+
+![PE2 Tool](README.md_Images/8_PE2_Tool.png)
+
+**3.** Click the Pore Extractor 2D toolkit icon to select a macro from its dropdown menu.
+
+![PE2 Menu](README.md_Images/9_PE2_Menu.png)
+
+
+
+
