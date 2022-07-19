@@ -1,9 +1,0 @@
-**Pore Extractor 2D Image Preprocessing Log for Sample_Rib**
-
-1. Subtract Background
-    Rolling Ball Radius = 50 pixels
-
-2. Exported Images
-    RGB Channel
-    Red Channel
-    Blue Channel
