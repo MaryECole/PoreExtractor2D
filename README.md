@@ -56,7 +56,7 @@ After download, the “Pore_Extractor_2D.ijm” file will appear in the Fiji.app
 
 If the user encounters difficulties downloading from the update site, the “Pore_Extractor_2D.ijm” file downloaded from this repository can be manually copied into the toolset subfolder. In this case, the user would also need to install BoneJ and BioVoxxel Toolbox individually from the ImageJ Update menu.
 
-**4.** Navigate to **Help --> Update ImageJ** and update to the latest version (1.53g or later). ImageJ will close automatically after this update and will need to be restarted.
+**4.** Navigate to **Help -> Update ImageJ** and update to the latest version (1.53g or later). ImageJ will close automatically after this update and will need to be restarted.
 
 ![Update ImageJ](README.md_Images/6_Update_ImageJ.png)
 
