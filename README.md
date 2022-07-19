@@ -10,8 +10,8 @@ Pore Extractor 2D is a free, open source macro toolkit for the FIJI distribution
 - **Wand ROI Selection:** Automatically select and clear space external to section borders
 - **ROI Touchup:** Adjust the section borders exported by *Wand ROI Selection*
 - **Pore Extractor:** Computer-assisted segmentation of pore spaces
-- **Pore Modifier:** Keyboard shortcuts and specialized functions for manually correcting the pore ROI set exported by *Pore Extractor*
-- **Pore Analyzer:** Automated morphometric analysis of pore spaces, including type classification and regional subdivision
+- **Pore Modifier:** Keyboard shortcuts and functions for manually correcting the extracted pore ROI set
+- **Pore Analyzer:** Automated morphometric analysis, including pore type classification and regional subdivision
 
 ### Citation
 
