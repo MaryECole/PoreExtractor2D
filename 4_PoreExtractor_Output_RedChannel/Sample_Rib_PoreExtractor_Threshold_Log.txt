@@ -1,0 +1,10 @@
+**Pore Extractor 2D Thresholding Log for Sample_Rib**
+
+Image Scale: 581 pixels / mm
+
+**Thresholding**
+Combined:
+Method: Manual Global - Otsu
+     Black Pore Borders: 0 - 125
+Method: Auto Local - Phansalkar
+     Radius: 15

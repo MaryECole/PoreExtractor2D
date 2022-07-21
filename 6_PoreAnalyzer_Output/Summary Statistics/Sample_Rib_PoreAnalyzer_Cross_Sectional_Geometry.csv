@@ -1,0 +1,2 @@
+Image,Scale (pixels/mm),Total Area (mm^2),Endosteal Area (mm^2),Cortical Area (mm^2),% Cortical Area,% Bone Area Total Porosity Corrected,% Bone Area Cortical Porosity Corrected,% Bone Area Trabecularized Porosity Corrected,% Endosteal Area,Parabolic Index (Y),Imin (mm^4),Imax (mm^4),Zpol (mm^3)
+Sample_Rib,581,52.2987,30.4652,21.8336,41.7478,39.1155,39.8206,41.0428,58.2522,0.2432,157.3324,112.6078,52.6603

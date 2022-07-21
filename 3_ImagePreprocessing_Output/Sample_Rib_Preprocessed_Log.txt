@@ -1,0 +1,14 @@
+**Pore Extractor 2D Image Preprocessing Log for Sample_Rib**
+
+1. Enhance Global Contrast
+    Normalize Histogram
+    Saturated Pixels = 0.3%
+
+2. Subtract Background
+    Rolling Ball Radius = 50 pixels
+
+3. Exported Images
+    RGB Channel
+    Red Channel
+    Blue Channel
+    Green Channel
