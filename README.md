@@ -15,7 +15,7 @@ Pore Extractor 2D is a free, open source macro toolkit for the FIJI distribution
 
 ### Citation
 
-Mary E. Cole, Samuel D. Stout, Victoria M. Dominguez, Amanda M. Agnew. 2022. Pore Extractor 2D: An ImageJ toolkit for quantifying cortical pore morphometry on histological bone images with application to intraskeletal and regional patterning. American Journal of Biological Anthropology (In Press).
+Mary E. Cole, Samuel D. Stout, Victoria M. Dominguez, Amanda M. Agnew. (2022). Pore Extractor 2D: An ImageJ toolkit for quantifying cortical pore morphometry on histological bone images with application to intraskeletal and regional patterning. American Journal of Biological Anthropology, 1-21. [https://doi.org/10.1002/ajpa.24618](https://doi.org/10.1002/ajpa.24618)
 
 ## Downloading Files from This GitHub Repository
 
