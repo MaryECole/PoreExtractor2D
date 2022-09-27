@@ -77,15 +77,11 @@ If the user encounters difficulties downloading from the update site, the “Por
 
 Pore Extractor 2D must be installed each time a new session of ImageJ is opened.
 
-**1.** If the user plans to clean section borders with the *Clip Trabeculae* or *Wand ROI Selection* macros, the FIJI Brush tool must be installed by selecting “StartupMacros” from the “More Tools” (**>>**) dropdown menu. This utility replaces the default ImageJ Brush tool.
-
-![Startup Macros](README.md_Images/7_StartupMacros.png)
-
-**2.** Select “Pore_Extractor_2D” from the “More Tools” (**>>**) dropdown menu, and the toolkit icon will appear in the ImageJ toolbar.
+**1.** Select “Pore_Extractor_2D” from the “More Tools” (**>>**) dropdown menu, and the toolkit icon will appear in the ImageJ toolbar.
 
 ![PE2 Tool](README.md_Images/8_PE2_Tool.png)
 
-**3.** Click the Pore Extractor 2D toolkit icon to select a macro from its dropdown menu.
+**2.** Click the Pore Extractor 2D toolkit icon to select a macro from its dropdown menu.
 
 ![PE2 Menu](README.md_Images/9_PE2_Menu.png)
 
